@@ -10,3 +10,4 @@ identify if there are pending credits or if there have been delays in the last p
 outlining two profiles: bad payer (if the previous hypothesis is true) or good payer. <br>
 The <b>goal </b> is to understand how to minimize the issuance of risky loans while maximizing the
 possibility of profiting from good loans.
+For a detailed description read the <a href = https://github.com/nicolasantillo/German-Dataset/blob/main/Tesina-L31-Nicola-Santillo.pdf> document </d>
